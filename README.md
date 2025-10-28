@@ -69,7 +69,7 @@ plt.axis('off')
 
 ### Grayscale image
 
-<img width="596" height="426" alt="image" src="https://github.com/user-attachments/assets/98f2b0e2-efc5-43b1-8d96-a903c307209b" />
+<img width="457" height="496" alt="image" src="https://github.com/user-attachments/assets/cca81e49-2599-41c8-a348-9f8f7c1ed726" />
 
 ### Canny Edge detector output
 
